@@ -21,7 +21,9 @@ El dataset contiene el detalle de las operaciones realizadas por un gigante de l
 
 # 📂 Estructura del proyecto
 01_data_uploading.py # Script para crear la base de datos desde el notebook
+
 02_notebook_dashboard.ipynb # Notebook exploratorio para clonar el repositorio, crear la base de datos, explorar los datos y crear el dashboard
+
 README.md # Documentación del proyecto
 
 ⸻
