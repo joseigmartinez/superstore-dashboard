@@ -50,9 +50,9 @@ Ejecutar todas las celdas para:
 ⸻
 
 📈 Visualizaciones incluidas:
--KPIS.
--Gráfico de línea: Evolución de profit por año.
--Gráfico de barras: Ventas por año.
+# KPIS.
+# Gráfico de línea: Evolución de profit por año.
+# Gráfico de barras: Ventas por año.
 -Gráfico de torta: Porcentaje de órdenes por categoria.
 -Gráficos de torta: Órdenes y ganancias por región.
 -Gráfico de Ganancias (Profit) por Región.
