@@ -12,7 +12,9 @@ El dataset contiene el detalle de las operaciones realizadas por un gigante de l
 🔗 Dataset en Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 2️⃣ Almacenamiento en una base de datos SQLite, estructurada y normalizada en tablas.
+
 3️⃣ Consultas SQL para obtener los resultados más importantes.
+
 4️⃣ Visualizaciones de KPIs y métricas clave.
 
 ⸻
