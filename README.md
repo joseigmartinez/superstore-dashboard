@@ -1,11 +1,11 @@
-🛒 SuperStore Dashboard
+# 🛒 SuperStore Dashboard
 
 Este proyecto trata sobre la creación de un mini-dashboard luego de realizar una exploración de datos.
 El dataset contiene el detalle de las operaciones realizadas por un gigante de los supermercados americanos.
 
 ⸻
 
-🛠️ Proceso de construcción
+# 🛠️ Proceso de construcción
 
 1️⃣ Obtención del CSV de una fuente externa (Kaggle)
 
@@ -19,14 +19,14 @@ El dataset contiene el detalle de las operaciones realizadas por un gigante de l
 
 ⸻
 
-📂 Estructura del proyecto
+# 📂 Estructura del proyecto
 01_data_uploading.py # Script para crear la base de datos desde el notebook
 02_notebook_dashboard.ipynb # Notebook exploratorio para clonar el repositorio, crear la base de datos, explorar los datos y crear el dashboard
 README.md # Documentación del proyecto
 
 ⸻
 
-🚀 Instrucciones de uso
+# 🚀 Instrucciones de uso
 
 1️⃣ Clonar el repositorio:
 !git clone https://github.com/joseigmartinez/superstore-dashboard.git
@@ -43,21 +43,32 @@ README.md # Documentación del proyecto
 
 Ejecutar todas las celdas para:
 📥 Cargar los datos
+
 🗄️ Crear la base SQLite
+
 📊 Realizar consultas SQL
+
 📈 Generar los gráficos
  
 ⸻
 
-📈 Visualizaciones incluidas:
-# KPIS.
-# Gráfico de línea: Evolución de profit por año.
-# Gráfico de barras: Ventas por año.
+# 📈 Visualizaciones incluidas:
+- KPIS.
+  
+- Gráfico de línea: Evolución de profit por año.
+  
+- Gráfico de barras: Ventas por año.
+
 -Gráfico de torta: Porcentaje de órdenes por categoria.
+
 -Gráficos de torta: Órdenes y ganancias por región.
+
 -Gráfico de Ganancias (Profit) por Región.
+
 -Gráfico de tortas: Porcentaje de órdenes por ShipMode (Metodo de envío).
+
 -Gráfico de lineas: Evolución de profit por años.
+
 -MINI-DASHBOARD DE RENDIMIENTO DE SUPERSTORE
 
 ⸻
