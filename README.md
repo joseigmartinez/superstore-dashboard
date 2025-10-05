@@ -29,19 +29,24 @@ README.md # Documentación del proyecto
 # 🚀 Instrucciones de uso
 
 1️⃣ Clonar el repositorio:
+
 !git clone https://github.com/joseigmartinez/superstore-dashboard.git
 
 2️⃣ Ubicarse en la carpeta que contiene el dataset:
+
 %cd superstore-dashboard
 
 3️⃣ Ejecutar el script que crea la base de datos y su estructura:
+
 !python 01_data_loading.py
 
 
 4️⃣ Abrir el notebook en Google Colab:
+
 -Subir o abrir 02_notebook_dashboard.ipynb
 
 Ejecutar todas las celdas para:
+
 📥 Cargar los datos
 
 🗄️ Crear la base SQLite
@@ -59,17 +64,17 @@ Ejecutar todas las celdas para:
   
 - Gráfico de barras: Ventas por año.
 
--Gráfico de torta: Porcentaje de órdenes por categoria.
+- Gráfico de torta: Porcentaje de órdenes por categoria.
 
--Gráficos de torta: Órdenes y ganancias por región.
+- Gráficos de torta: Órdenes y ganancias por región.
 
--Gráfico de Ganancias (Profit) por Región.
+- Gráfico de Ganancias (Profit) por Región.
 
--Gráfico de tortas: Porcentaje de órdenes por ShipMode (Metodo de envío).
+- Gráfico de tortas: Porcentaje de órdenes por ShipMode (Metodo de envío).
 
--Gráfico de lineas: Evolución de profit por años.
+- Gráfico de lineas: Evolución de profit por años.
 
--MINI-DASHBOARD DE RENDIMIENTO DE SUPERSTORE
+- MINI-DASHBOARD DE RENDIMIENTO DE SUPERSTORE
 
 ⸻
 
